@@ -53,7 +53,7 @@ class SplashScreen extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
-            SizedBox(height: 20),
+            SizedBox(height: 10),
             Text(
               "GrammerSense AI",
               style: GoogleFonts.plusJakartaSans(
